@@ -8,10 +8,10 @@
     <tr>
     <td valign="top" width="25%">  
       <a href="https://github.com/liteaverse/FMCL">
-        <b><i>FMCL</i></b>
+        <b><i>Pomoe / 帕姆工具箱</i></b>
       </a>
       <br>
-      ⛰️ A Minecraft launcher that uses Fluent Design and is powered by Flutter. | 一个使用 Fluent Design 且由 Flutter 强力驱动的 Minecraft 启动器。
+      🌌 A Honkai: Star Rail PC Toolkit. | 一个崩坏星穹铁道PC端工具箱
     </td>
     </tr>
   </table>
