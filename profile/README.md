@@ -7,11 +7,11 @@
   <table>
     <tr>
     <td valign="top" width="25%">  
-      <a href="https://github.com/liteaverse/FMCL">
-        <b><i>Pomoe / 帕姆工具箱</i></b>
+      <a href="https://github.com/nekoteah/Pomoe">
+        <b><i>Pomoe</i></b>
       </a>
       <br>
-      🌌 A Honkai: Star Rail PC Toolkit. | 一个崩坏星穹铁道PC端工具箱
+      🌌 Hoyoverse Game Toolkit. | 一只米哈游游戏工具箱
     </td>
     </tr>
   </table>
@@ -19,5 +19,5 @@
 <h2></h2>
   
 <h6 align="center">
-  © LiTeaverse All rights reserved.
+  © Neko Teahouse All rights reserved.
 </h6>
